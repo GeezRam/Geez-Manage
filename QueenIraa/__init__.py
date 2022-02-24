@@ -207,5 +207,3 @@ def spamfilters(text, user_id, chat_id):
         return True
     else:
         return False
-    else:
-        return False

@@ -57,7 +57,7 @@ fontTools
 glitch_this
 opencv-python-headless
 heroku3
-Pyrogram==1.0
+Pyrogram==1.2
 envparse
 TgCrypto
 search_engine_parser
